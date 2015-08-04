@@ -25,3 +25,4 @@
 #### 中国文学
 
 - [皮囊](http://book.douban.com/subject/26278687/)
+- [悟空传](http://book.douban.com/subject/6431994/)
