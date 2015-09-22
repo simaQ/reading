@@ -26,3 +26,5 @@
 
 - [皮囊](http://book.douban.com/subject/26278687/)
 - [悟空传](http://book.douban.com/subject/6431994/)
+- [撒哈拉的故事](http://book.douban.com/subject/6710437/) - Aug.
+- [1980年代的爱情](http://book.douban.com/subject/25696089/) - Sep.
