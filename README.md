@@ -17,12 +17,13 @@
 
 - [春风沉醉的晚上](http://book.douban.com/subject/2010284/)
 
-#### 外国文学
+#### 外国小说
 
 - [岛上书店](http://book.douban.com/subject/26340138/)
 - [了不起的盖茨比](http://book.douban.com/subject/10738023/)
+- [无声告白](http://book.douban.com/subject/26382433/)
 
-#### 中国文学
+#### 中国小说
 
 - [皮囊](http://book.douban.com/subject/26278687/)
 - [悟空传](http://book.douban.com/subject/6431994/)
