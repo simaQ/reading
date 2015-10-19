@@ -29,3 +29,4 @@
 - [悟空传](http://book.douban.com/subject/6431994/)
 - [撒哈拉的故事](http://book.douban.com/subject/6710437/) - Aug.
 - [1980年代的爱情](http://book.douban.com/subject/25696089/) - Sep.
+- [哲学家们都干了些什么？](http://book.douban.com/subject/6425061/)
